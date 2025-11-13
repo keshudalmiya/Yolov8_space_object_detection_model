@@ -1,0 +1,11 @@
+dataset_yaml = """
+train: falcon_dataset/train/images
+val:   falcon_dataset/val/images
+test:  falcon_dataset/test/images
+
+nc: 7
+names: ["Oxygen Tank", "Nitrogen Tank", "First Aid Box", "Fire Alarm",
+        "Safety Switch Panel", "Emergency Phone", "Fire Extinguisher"]
+"""
+with open("falcon.yaml", "w") as f:
+    f.write(dataset_yaml)
