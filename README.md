@@ -14,7 +14,6 @@ Anmol Goel
 
 Team Name : Team Nova
 
-Team: SolutionMakers
 
 🚀 Features
 
@@ -104,3 +103,4 @@ Deploy model into real-time surveillance systems.
 Ultralytics YOLOv8 for state-of-the-art object detection.
 
 Falcon Dataset for safety equipment images.
+
